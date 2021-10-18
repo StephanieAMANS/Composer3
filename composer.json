@@ -1,0 +1,17 @@
+{
+    "name": "stephanie/package-cowsay",
+    "autoload": {
+        "psr-4": {
+            "Stephanie\\PackageCowsay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stéphanie AMANS",
+            "email": "stephanie-amans_student2021@wilder.school"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
